@@ -17,6 +17,9 @@ public class UnNuevoProyecto {
     public static void main(String[] args) {
         // TODO code application logic here
         //hola chicos!!
+        
+        
+        //Hola a todos, soy Javier y soy nuevo, espero contar con ustedes.!
     }
     
 }
